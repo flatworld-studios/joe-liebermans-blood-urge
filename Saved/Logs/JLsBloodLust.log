@@ -740,3 +740,5 @@ Script Stack (0 frames):
 [2019.04.10-20.31.01:146][548]SourceControl:  create mode 100644 Content/StarterContent/Maps/TestGarage.umap
 [2019.04.10-20.31.01:146][548]SourceControl:  create mode 100644 Content/StarterContent/Maps/TestGarage_BuiltData.uasset
 [2019.04.10-20.31.01:151][548]SourceControl: Commited [master 6699aad] Addition of TestGarage Level.
+[2019.04.10-20.31.50:815][309]LogSlate: Window 'Source Control Login' being destroyed
+[2019.04.10-20.31.53:250][483]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.093 sec). This should never happen. Something is wrong with the timer delegate!
