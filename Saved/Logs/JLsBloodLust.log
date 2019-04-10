@@ -742,3 +742,17 @@ Script Stack (0 frames):
 [2019.04.10-20.31.01:151][548]SourceControl: Commited [master 6699aad] Addition of TestGarage Level.
 [2019.04.10-20.31.50:815][309]LogSlate: Window 'Source Control Login' being destroyed
 [2019.04.10-20.31.53:250][483]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.093 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-20.34.12:474][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.10-20.34.21:472][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-20.34.28:642][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-20.34.28:804][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.04.10-20.34.28:877][987]LogSavePackage: Moving '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Saved/TestGarage78549AAE428C3379B71C6CA92DD0A76A.tmp' to '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/TestGarage.umap'
+[2019.04.10-20.34.29:057][987]LogSavePackage: Moving '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Saved/TestGarage_BuiltData5285E58C43303E716B9B0FA869C8CC7C.tmp' to '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/TestGarage_BuiltData.uasset'
+[2019.04.10-20.34.32:598][367]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.04.10-20.34.41:182][367]LogSlate: Window 'Submit Files' being destroyed
+[2019.04.10-20.34.41:650][367]LogSourceControl: commit successful: [Martin-Stage-1 6ab29c2] Test Garage Resize
+[2019.04.10-20.34.41:683][367]SourceControl: [Martin-Stage-1 6ab29c2] Test Garage Resize
+[2019.04.10-20.34.41:683][367]SourceControl:  2 files changed, 3 insertions(+)
+[2019.04.10-20.34.41:683][367]SourceControl:  create mode 100644 Content/StarterContent/Maps/TestGarage.umap
+[2019.04.10-20.34.41:683][367]SourceControl:  create mode 100644 Content/StarterContent/Maps/TestGarage_BuiltData.uasset
+[2019.04.10-20.34.41:689][367]SourceControl: Commited [Martin-Stage-1 6ab29c2] Test Garage Resize.
