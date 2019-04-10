@@ -631,3 +631,112 @@ Script Stack (0 frames):
 [2019.04.10-20.26.36:872][596]SourceControl: [Martin-Stage-1 d5d3a62] Test Submission 1
 [2019.04.10-20.26.36:872][596]SourceControl:  1 file changed, 1 insertion(+), 1 deletion(-)
 [2019.04.10-20.26.36:878][596]SourceControl: Commited [Martin-Stage-1 d5d3a62] Test Submission 1.
+[2019.04.10-20.28.34:278][492]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.04.10-20.28.34:335][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.28.34:586][516]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.04.10-20.28.36:777][771]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.04.10-20.28.38:273][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-20.29.02:498][843]LogSlate: Took 0.003221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.10-20.29.03:515][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-20.29.31:603][974]LogSlate: Window 'New Level' being destroyed
+[2019.04.10-20.29.31:611][974]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-20.29.31:614][974]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-20.29.31:627][974]LightingResults: New page: Lighting Build
+[2019.04.10-20.29.31:628][974]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.04.10-20.29.31:630][974]MapCheck: New page: Map Check
+[2019.04.10-20.29.31:630][974]LightingResults: New page: Lighting Build
+[2019.04.10-20.29.31:657][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.04.10-20.29.31:671][974]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.10-20.29.31:679][974]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-20.29.31:702][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.04.10-20.29.31:707][974]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-20.29.31:708][974]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2019.04.10-20.29.31:708][974]LogFileHelpers: Loading map 'Template_Default' took 0.099
+[2019.04.10-20.29.36:168][501]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-20.29.47:810][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2019.04.10-20.29.47:810][894]Cmd: MAP LOAD FILE="../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-20.29.47:822][894]LightingResults: New page: Lighting Build
+[2019.04.10-20.29.47:822][894]LoadErrors: New page: Loading map: StarterMap.umap
+[2019.04.10-20.29.47:823][894]MapCheck: New page: Map Check
+[2019.04.10-20.29.47:823][894]LightingResults: New page: Lighting Build
+[2019.04.10-20.29.47:846][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.04.10-20.29.48:450][894]LogAIModule: Creating AISystem for world StarterMap
+[2019.04.10-20.29.48:477][894]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-20.29.48:502][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.04.10-20.29.48:521][894]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-20.29.48:522][894]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2019.04.10-20.29.48:522][894]LogFileHelpers: Loading map 'StarterMap' took 0.712
+[2019.04.10-20.29.48:522][894]LogSlate: Window 'Open Level' being destroyed
+[2019.04.10-20.29.54:605][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.04.10-20.29.54:606][586]Cmd: MAP LOAD FILE="../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-20.29.54:622][586]LightingResults: New page: Lighting Build
+[2019.04.10-20.29.54:622][586]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2019.04.10-20.29.54:624][586]MapCheck: New page: Map Check
+[2019.04.10-20.29.54:624][586]LightingResults: New page: Lighting Build
+[2019.04.10-20.29.54:647][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2019.04.10-20.29.55:016][586]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.04.10-20.29.55:111][586]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update SunlightColorLUT
+[2019.04.10-20.29.55:121][586]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.04.10-20.29.55:128][586]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-20.29.55:164][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.04.10-20.29.55:179][586]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-20.29.55:180][586]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2019.04.10-20.29.55:180][586]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.574
+[2019.04.10-20.29.55:180][586]LogSlate: Window 'Open Level' being destroyed
+[2019.04.10-20.29.55:211][588]LogRenderer: Warning: Gaussian DOF algorithm is deprecated and will be removed from deferred shading renderer. Consider using the Circle DOF method in post process settings.
+[2019.04.10-20.29.58:858][ 23]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-20.29.58:864][ 23]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-20.30.02:140][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.03:165][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.05:418][805]LogSlate: Window 'Open Level' being destroyed
+[2019.04.10-20.30.06:157][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.06:730][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.07:622][960]LogSlate: Window 'New Level' being destroyed
+[2019.04.10-20.30.07:629][960]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-20.30.07:635][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.07:639][960]LightingResults: New page: Lighting Build
+[2019.04.10-20.30.07:639][960]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.04.10-20.30.07:640][960]MapCheck: New page: Map Check
+[2019.04.10-20.30.07:640][960]LightingResults: New page: Lighting Build
+[2019.04.10-20.30.07:666][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.04.10-20.30.07:676][960]LogAIModule: Creating AISystem for world Untitled_2
+[2019.04.10-20.30.07:680][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-20.30.07:707][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.04.10-20.30.07:712][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-20.30.07:712][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2019.04.10-20.30.07:712][960]LogFileHelpers: Loading map 'Template_Default' took 0.083
+[2019.04.10-20.30.08:824][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.11:567][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.11:616][418]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2019.04.10-20.30.11:624][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.25:997][418]LogSlate: Window 'Save Level As' being destroyed
+[2019.04.10-20.30.26:004][418]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.04.10-20.30.26:057][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.04.10-20.30.26:082][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.04.10-20.30.26:171][418]LogSavePackage: Moving '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Saved/TestGarageF546B0C2448E7E7E493063B73FD76762.tmp' to '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/TestGarage.umap'
+[2019.04.10-20.30.26:388][418]LogSavePackage: Moving '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Saved/TestGarage_BuiltData63B008A245DD0B4A3820AA95CC7D763B.tmp' to '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/TestGarage_BuiltData.uasset'
+[2019.04.10-20.30.26:800][418]LogFileHelpers: Saving map 'TestGarage' took 0.786
+[2019.04.10-20.30.27:075][450]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2019.04.10-20.30.29:719][767]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.04.10-20.30.29:778][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.30:824][887]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.10-20.30.37:329][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-20.30.37:511][678]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.30.37:541][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.04.10-20.30.37:616][678]LogSavePackage: Moving '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Saved/TestGarageA78BEECA46F40C1761E3C7B0D9C65514.tmp' to '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/TestGarage.umap'
+[2019.04.10-20.30.37:705][678]LogSavePackage: Moving '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Saved/TestGarage_BuiltData4AE7E81F4443C1D5C3C73D8C69754ED9.tmp' to '../../../../../../Users/MartinHDesktop/Documents/GitHub/joe-liebermans-blood-urge/Content/StarterContent/Maps/TestGarage_BuiltData.uasset'
+[2019.04.10-20.30.44:984][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.04.10-20.31.00:386][548]LogSlate: Window 'Submit Files' being destroyed
+[2019.04.10-20.31.01:113][548]LogSourceControl: commit successful: [master 6699aad] Addition of TestGarage Level
+[2019.04.10-20.31.01:146][548]SourceControl: [master 6699aad] Addition of TestGarage Level
+[2019.04.10-20.31.01:146][548]SourceControl:  2 files changed, 3 insertions(+)
+[2019.04.10-20.31.01:146][548]SourceControl:  create mode 100644 Content/StarterContent/Maps/TestGarage.umap
+[2019.04.10-20.31.01:146][548]SourceControl:  create mode 100644 Content/StarterContent/Maps/TestGarage_BuiltData.uasset
+[2019.04.10-20.31.01:151][548]SourceControl: Commited [master 6699aad] Addition of TestGarage Level.
